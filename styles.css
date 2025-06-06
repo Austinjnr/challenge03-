@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+section {
+  background-color: #23424a;
+  padding: 5em;
+  
+}
+p {
+  margin: 0;
+}
+.container {
+  width: 50%;
+  max-width: 750px;
+}
+.container_intro {
+  font-family: Roboto;
+  color: white;
+  font-weight: 700;
+  font-size: 3rem;
+  margin-bottom: 0.5em;
+}
+.container_text {
+  font-family: Roboto;
+  color: white;
+  margin-bottom: 3em;
+  font-size: 1.3rem;
+}
+.container button {
+  text-decoration: none;
+  font-family: Roboto;
+  font-weight: 700;
+  background-color: #38cfd9;
+  color: #072A2D;
+  font-size: 1.3em;
+  padding: 0.5em 2em;
+  border: none;
+  border-radius: 48px;
+}
